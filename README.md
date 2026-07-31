@@ -46,10 +46,10 @@ If you arrived here from GNAP: it is not abandoned, but it is not the bet.
 
 ## What will live here
 
-- **Constitution** — the articles we do not violate, in a form where a
-  reviewer can check an artifact against them. Not published yet: an article
-  is a promise, and we are resolving two conflicts in the draft before making
-  promises in public.
+- [**Constitution**](constitution.md) — the articles we do not violate, in a
+  form where a reviewer can check an artifact against them. Includes what the
+  recorder may and may not do with what it sees, and what may be written into
+  a room's shared memory.
 - **Kits** — the mechanism half of how we work, starting with the business
   counterpart to `agent-flow`.
 - **Skills** — reusable capabilities, the way `agent-flow` packages them.
