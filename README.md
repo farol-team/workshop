@@ -10,10 +10,10 @@ where the kit is shared and each project's constitution belongs to that
 project.
 
 **What we build and why** is on the
-[organization page](https://github.com/farol-team). The short version: two
-products, two halves of one idea — WorkScreen observes how work actually
-happens, WorkRoom keeps what the organization learns from it. One observes,
-the other remembers.
+[organization page](https://github.com/farol-team). The short version:
+[WorkRoom](https://github.com/farol-team/workroom) — a shared workspace where
+every person brings their own local agent, and the room remembers. WorkScreen
+is how the room gets an honest picture of the work in the first place.
 
 This repository is the third thing: the rules and the machinery we hold
 ourselves to while building them.
