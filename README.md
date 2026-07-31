@@ -9,51 +9,16 @@ already use in [`agent-flow`](https://github.com/farol-team/agent-flow),
 where the kit is shared and each project's constitution belongs to that
 project.
 
-## The bet
+**What we build and why** is on the
+[organization page](https://github.com/farol-team). The short version: two
+products, two halves of one idea — WorkScreen observes how work actually
+happens, WorkRoom keeps what the organization learns from it. One observes,
+the other remembers.
 
-Teams working with agents need durable shared context more than they need
-better agents.
+This repository is the third thing: the rules and the machinery we hold
+ourselves to while building them.
 
-Agents improve every few months, and people have preferences. What does not
-improve on its own is what an organization knows about itself: how its work
-actually happens, and what it has already learned and paid for. Bind a
-workspace to one agent and you rebuild when the landscape moves. Bind it to
-the context, and it outlives any particular agent.
-
-Everything here follows from that.
-
-## What we build
-
-Two products, two halves of the same idea.
-
-| | |
-|---|---|
-| **WorkScreen** | Desktop software that records how work actually happens — screen, actions, meetings — so a company can see its processes as they are rather than as described. |
-| [**WorkRoom**](https://github.com/farol-team/workroom) | A shared workspace where every person brings their own local agent, and the room remembers. |
-
-An organization loses what it knows twice over. It never had an honest picture
-of how its work is actually done: ask people and you get what they believe they
-do, put a consultant at their shoulder and it is accurate but does not scale.
-And whatever it does learn evaporates — every agent session starts from zero,
-and the same ground gets bought again next quarter.
-
-WorkScreen is about the first loss, WorkRoom about the second. One observes,
-the other remembers. Neither is interesting without the other: a picture nobody
-keeps is a report, and a memory with nothing honest in it is a wiki.
-
-The recorder is open source, because that is the only real answer to "what are
-you recording, and where does it go" — see articles C1, C4, and C7 of the
-[constitution](constitution.md). It is currently published under its earlier
-name, [`gilb-recorder`](https://github.com/gilb-ai/gilb-recorder).
-
-### Tools we built for ourselves
-
-[**agent-flow**](https://github.com/farol-team/agent-flow) — board-driven
-multi-agent development workflow for Claude Code: human-approved plans, an
-adversarial test critic, evidence-gated acceptance, compounding project
-memory. Extracted from our own repos and used in production on them.
-
-## What will live here
+## What's here
 
 - [**Constitution**](constitution.md) — the articles we do not violate, in a
   form where a reviewer can check an artifact against them. Includes what the
