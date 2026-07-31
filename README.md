@@ -53,11 +53,6 @@ multi-agent development workflow for Claude Code: human-approved plans, an
 adversarial test critic, evidence-gated acceptance, compounding project
 memory. Extracted from our own repos and used in production on them.
 
-We also keep two curated maps of the space:
-[awesome-agent-services](https://github.com/farol-team/awesome-agent-services)
-and
-[awesome-agentic-web](https://github.com/farol-team/awesome-agentic-web).
-
 ## What will live here
 
 - [**Constitution**](constitution.md) — the articles we do not violate, in a
